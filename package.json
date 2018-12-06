@@ -1,0 +1,14 @@
+{
+  "name": "shopbook",
+  "version": "1.0.0",
+  "description": "this  project  is just a demo google cloud app engine",
+  "main": "\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
